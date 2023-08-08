@@ -1,4 +1,20 @@
 
+# Ethereum ATM Using MetaMask Wallet And Unit Conversion Of Ether
+
+This project demonstrates how to build an Ethereum ATM web application that interacts with the Ethereum blockchain using the MetaMask wallet extension. The application allows users to connect their MetaMask wallet, check their account balance, deposit and withdraw Ether, and perform unit conversions between different Ether units (wei, Gwei, ether, finney).
+
+## Getting Started
+
+### Prerequisites
+
+- MetaMask wallet extension installed in your browser.
+- Node.js and npm installed on your system.
+  
+## Setup
+First Clone the repo by running this command on ypu terminal
+```Terminal
+git clone 
+```
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
